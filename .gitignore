@@ -1,0 +1,10 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+/pgmlib/*.py[cod]
+*$py.class
+!start.pyc
+
+# old files
+*.old.*
+*.OLD.*

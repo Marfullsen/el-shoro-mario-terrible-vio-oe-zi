@@ -1,0 +1,15 @@
+
+El shoro Mario Terrible vio oe zi v0.07 Primera versión
+ (11-05-2017)
+
+- Cambios en los sprites.
+- Cambio en la música de fondo.
+
+
+- Traducción al español informal de Chile.
+
+El shoro Mario Terrible vio oe zi (23-dic-2020)
+
+
+- Mensajes de error (Python2 & PyGame) agregados.
+- Documentación cancerígena agregada.
